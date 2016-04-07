@@ -10,8 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.4559613
 color:
-  saturation: 0
+  saturation: 0.264769
   brandStrength: 0.9070892
   lightness: 0
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#BDAC99'
     - '#D9E9FA'
     - '#5D7FA3'
-  rhythmicContrast: 0
-typography_spectrum: 0.4559613
+  rhythmicContrast: 0.2765843
 layout_spectrum: 0.3141783
 name: ratmentor.com
