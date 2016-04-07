@@ -1,14 +1,26 @@
-layout_spectrum: 0.3141783
-typography_spectrum: 0.4559613
 color:
   saturation: 0.4881927
-  lightness: 0.4548029
   brandStrength: 0.9070892
+  rhythmicContrast: 0.05819498
   brandColors:
     - '#3A2F27'
     - '#A48053'
     - '#BDAC99'
     - '#D9E9FA'
     - '#5D7FA3'
-  rhythmicContrast: 0.05819498
+  lightness: 0.4548029
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3141783
+typography_spectrum: 0.4559613
 name: ratmentor.com
