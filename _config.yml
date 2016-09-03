@@ -4,17 +4,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.4559613
 color:
   saturation: 0.264769
   brandStrength: 0.9070892
-  lightness: 0
+  lightness: 0.7427498
   brandColors:
     - '#3A2F27'
     - '#A48053'
@@ -22,5 +21,6 @@ color:
     - '#D9E9FA'
     - '#5D7FA3'
   rhythmicContrast: 0.2765843
-layout_spectrum: 0.3141783
+typography_spectrum: 0.4398496
+layout_spectrum: 0
 name: ratmentor.com
